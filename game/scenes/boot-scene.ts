@@ -158,7 +158,7 @@ export class BootScene extends Phaser.Scene {
         customiseSvg(svg[0], { removeBg: true }),
         customiseSvg(svg[0], {
           armsUp: true,
-          eyes: "happy",
+          //eyes: "happy",
           float: true,
           removeBg: true,
         }),
