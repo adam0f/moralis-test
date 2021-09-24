@@ -16,7 +16,7 @@ export const theme = {
     secondaryAccent: '#6cdfff',
     dark0: '#ab8738',
     dark1: '#5b3700',
-    dark2: '#6cdfff',
+    dark2: '#000000',
     light0: '#6cdfff',
     light1: '#3cafff',
     light2: '#6cdfff'
