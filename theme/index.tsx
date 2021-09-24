@@ -13,13 +13,13 @@ export const theme = {
     primary: '#FA34F3',
     primaryAccent: '#92258e',
     secondary: '#6D18f8',
-    secondaryAccent: '#250750',
-    dark0: '#12032E',
-    dark1: '#200449',
-    dark2: '#250750',
-    light0: '#FFFFFF',
-    light1: '#F2F2F2',
-    light2: '#A9A9BC'
+    secondaryAccent: '#6cdfff',
+    dark0: '#ab8738',
+    dark1: '#5b3700',
+    dark2: '#6cdfff',
+    light0: '#6cdfff',
+    light1: '#3cafff',
+    light2: '#6cdfff'
   },
 
   shadow: '0 1px 2px 0 rgba(0,0,0,0.12), 0 1px 4px 0 rgba(0,0,0,0.08)',
